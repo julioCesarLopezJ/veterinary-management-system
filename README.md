@@ -32,12 +32,8 @@ The project was developed using IntelliJ IDEA.
 4. Register a new user, log in, and start managing clients and appointments.
 
 ## Purpose
-This project was created for learning and practice purposes.  
-It demonstrates the use of OOP design principles, modular structure, and Java application development.
+I built this project, however, although it is not a very complicated project, it was quite useful for me as a way to practice what I saw in my OOP course. 
+I am happy with how it turned out and I hope you like it.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-> **Note:** This project is console-based and does not include a graphical user interface (GUI).
